@@ -1,0 +1,6 @@
+flask
+flask-cors
+yfinance
+smartapi-python
+pyotp
+pandas
