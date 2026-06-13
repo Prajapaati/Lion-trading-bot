@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+smartapi-python
+pyotp
+pandas
